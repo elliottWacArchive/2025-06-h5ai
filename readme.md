@@ -1,8 +1,8 @@
-# INIT
+## INIT
 
-installer venv : `python3 -m venv venv`
-activer venv : `source venv/bin/activate`
+-   installer venv : `python3 -m venv venv`
+-   activer venv : `source venv/bin/activate`
 
-# REQUIRE
+## REQUIRE
 
-flask : `pip install flask`
+-   flask : `pip install flask`
